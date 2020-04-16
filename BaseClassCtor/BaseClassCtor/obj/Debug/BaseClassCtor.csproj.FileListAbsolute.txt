@@ -1,0 +1,7 @@
+E:\Eldho\C# Programs\BaseClassCtor\BaseClassCtor\bin\Debug\BaseClassCtor.exe.config
+E:\Eldho\C# Programs\BaseClassCtor\BaseClassCtor\bin\Debug\BaseClassCtor.exe
+E:\Eldho\C# Programs\BaseClassCtor\BaseClassCtor\bin\Debug\BaseClassCtor.pdb
+E:\Eldho\C# Programs\BaseClassCtor\BaseClassCtor\obj\Debug\BaseClassCtor.csprojResolveAssemblyReference.cache
+E:\Eldho\C# Programs\BaseClassCtor\BaseClassCtor\obj\Debug\BaseClassCtor.csproj.CoreCompileInputs.cache
+E:\Eldho\C# Programs\BaseClassCtor\BaseClassCtor\obj\Debug\BaseClassCtor.exe
+E:\Eldho\C# Programs\BaseClassCtor\BaseClassCtor\obj\Debug\BaseClassCtor.pdb

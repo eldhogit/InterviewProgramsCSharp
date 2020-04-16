@@ -1,0 +1,7 @@
+E:\Eldho\C# Programs\Interview\StaticVairableDemo\StaticVairableDemo\bin\Debug\StaticVairableDemo.exe.config
+E:\Eldho\C# Programs\Interview\StaticVairableDemo\StaticVairableDemo\bin\Debug\StaticVairableDemo.exe
+E:\Eldho\C# Programs\Interview\StaticVairableDemo\StaticVairableDemo\bin\Debug\StaticVairableDemo.pdb
+E:\Eldho\C# Programs\Interview\StaticVairableDemo\StaticVairableDemo\obj\Debug\StaticVairableDemo.csprojResolveAssemblyReference.cache
+E:\Eldho\C# Programs\Interview\StaticVairableDemo\StaticVairableDemo\obj\Debug\StaticVairableDemo.csproj.CoreCompileInputs.cache
+E:\Eldho\C# Programs\Interview\StaticVairableDemo\StaticVairableDemo\obj\Debug\StaticVairableDemo.exe
+E:\Eldho\C# Programs\Interview\StaticVairableDemo\StaticVairableDemo\obj\Debug\StaticVairableDemo.pdb

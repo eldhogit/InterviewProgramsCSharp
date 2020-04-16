@@ -1,0 +1,6 @@
+E:\Eldho\C# Programs\NamespaceDemo\ProjectOne.TeamTwo\bin\Debug\ProjectOne.TeamTwo.dll
+E:\Eldho\C# Programs\NamespaceDemo\ProjectOne.TeamTwo\bin\Debug\ProjectOne.TeamTwo.pdb
+E:\Eldho\C# Programs\NamespaceDemo\ProjectOne.TeamTwo\obj\Debug\ProjectOne.TeamTwo.csprojResolveAssemblyReference.cache
+E:\Eldho\C# Programs\NamespaceDemo\ProjectOne.TeamTwo\obj\Debug\ProjectOne.TeamTwo.csproj.CoreCompileInputs.cache
+E:\Eldho\C# Programs\NamespaceDemo\ProjectOne.TeamTwo\obj\Debug\ProjectOne.TeamTwo.dll
+E:\Eldho\C# Programs\NamespaceDemo\ProjectOne.TeamTwo\obj\Debug\ProjectOne.TeamTwo.pdb

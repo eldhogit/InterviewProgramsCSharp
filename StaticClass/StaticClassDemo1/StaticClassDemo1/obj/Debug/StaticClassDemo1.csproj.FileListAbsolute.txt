@@ -1,0 +1,2 @@
+E:\Eldho\C# Programs\Interview\StaticClass\StaticClassDemo1\StaticClassDemo1\obj\Debug\StaticClassDemo1.csprojResolveAssemblyReference.cache
+E:\Eldho\C# Programs\Interview\StaticClass\StaticClassDemo1\StaticClassDemo1\obj\Debug\StaticClassDemo1.csproj.CoreCompileInputs.cache

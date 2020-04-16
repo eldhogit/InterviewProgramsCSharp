@@ -1,0 +1,12 @@
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\bin\Debug\NamespaceDemo.exe.config
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\bin\Debug\NamespaceDemo.exe
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\bin\Debug\NamespaceDemo.pdb
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\obj\Debug\NamespaceDemo.csproj.CoreCompileInputs.cache
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\obj\Debug\NamespaceDemo.exe
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\obj\Debug\NamespaceDemo.pdb
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\bin\Debug\ProjectOne.TeamOne.dll
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\bin\Debug\ProjectOne.TeamTwo.dll
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\bin\Debug\ProjectOne.TeamOne.pdb
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\bin\Debug\ProjectOne.TeamTwo.pdb
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\obj\Debug\NamespaceDemo.csprojResolveAssemblyReference.cache
+E:\Eldho\C# Programs\NamespaceDemo\NamespaceDemo\obj\Debug\NamespaceDemo.csproj.CopyComplete

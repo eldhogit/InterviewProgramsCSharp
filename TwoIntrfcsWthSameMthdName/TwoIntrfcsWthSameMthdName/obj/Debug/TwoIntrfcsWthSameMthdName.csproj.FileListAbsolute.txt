@@ -1,0 +1,7 @@
+C:\Users\eldho\source\repos\TwoIntrfcsWthSameMthdName\TwoIntrfcsWthSameMthdName\bin\Debug\TwoIntrfcsWthSameMthdName.exe.config
+C:\Users\eldho\source\repos\TwoIntrfcsWthSameMthdName\TwoIntrfcsWthSameMthdName\bin\Debug\TwoIntrfcsWthSameMthdName.exe
+C:\Users\eldho\source\repos\TwoIntrfcsWthSameMthdName\TwoIntrfcsWthSameMthdName\bin\Debug\TwoIntrfcsWthSameMthdName.pdb
+C:\Users\eldho\source\repos\TwoIntrfcsWthSameMthdName\TwoIntrfcsWthSameMthdName\obj\Debug\TwoIntrfcsWthSameMthdName.csprojResolveAssemblyReference.cache
+C:\Users\eldho\source\repos\TwoIntrfcsWthSameMthdName\TwoIntrfcsWthSameMthdName\obj\Debug\TwoIntrfcsWthSameMthdName.csproj.CoreCompileInputs.cache
+C:\Users\eldho\source\repos\TwoIntrfcsWthSameMthdName\TwoIntrfcsWthSameMthdName\obj\Debug\TwoIntrfcsWthSameMthdName.exe
+C:\Users\eldho\source\repos\TwoIntrfcsWthSameMthdName\TwoIntrfcsWthSameMthdName\obj\Debug\TwoIntrfcsWthSameMthdName.pdb
